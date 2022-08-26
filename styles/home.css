@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+.header-cont{
+    margin: 0;
+    height: 8vh;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+}
+.header-logo-cont{
+    height: 100%;
+    width: 25vw;
+    border: 1px solid black;
+}
+.header-pages-cont{
+    height: 100%;
+    width: 50vw;
+    border: 1px solid black;
+}
